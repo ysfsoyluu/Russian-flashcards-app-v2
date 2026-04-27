@@ -24,7 +24,7 @@ Open the app in any browser — no login or installation required.
 
 ## Live Demo
 
-[View the app here](https://ysfsoyluu.github.io/russian-flashcards-app-v2/russian_flashcards-6.1.html)
+[View the app here](https://ysfsoyluu.github.io/russian-flashcards-app-v2/index.html)
 
 ## Built With
 
